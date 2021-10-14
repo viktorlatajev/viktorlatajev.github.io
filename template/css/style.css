@@ -276,7 +276,7 @@ body.active .mscroll {
 #OurWork .grey-box {
   background-color: #4f4f4f;
   padding: 20px;
-  height: 460px;
+  height: 97.5%;
   position: relative;
 }
 #OurWork .each-work {
@@ -375,6 +375,7 @@ body.active .mscroll {
   left: 0;
   padding-left: 30px;
 }
+
 #OurWork .sponser h4 {
   font: 700 20px/125% 'Futura PT book';
   color: #b6b3b3;
